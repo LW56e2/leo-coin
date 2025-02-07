@@ -1,6 +1,14 @@
 {
-  “name”: “LeoCoin”,
-  “symbol”: “LEOC”,
-  “uri”: “https://raw.githubusercontent.com/LW56e2/leo-coin/refs/heads/main/svgviewer-png-output.png”
+  "name": "LeoCoin",
+  "symbol": "LEOC",
+  "description": "LeoCoin is a community-driven token on Solana.",
+  "image": "https://raw.githubusercontent.com/LW56e2/leo-coin/refs/heads/main/svgviewer-png-output.png",
+  "decimals:": 9,
+  "attributes": [
+    { "trait_type": "Category", "value": "Crypto Token" },
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Use Case", "value": "Utility" },
+    { "trait_type": "Supply", "value": "100,000" }
+  ]
 }
 
